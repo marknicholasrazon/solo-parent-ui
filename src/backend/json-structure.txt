@@ -1,0 +1,42 @@
+{
+	"personalInfo": {
+		"surName": "fer",
+		"givenName": "gle",
+		"middleName": "de",
+		"civilStatus": "s",
+		"sex": "m",
+		"age": "22",
+		"dateOfBirth": "1990-12-01T00:00:00Z",
+		"placeOfBirth": "bayog",
+		"religion": "cat",
+		"mobileNumber": "09123456789",
+		"idCardNumber": "1234",
+		"idCardType": "postal",
+		"landlineNumber": "0000",
+		"presentAddress": "bayog",
+		"educationalAttainment": "bs",
+		"profession": "nothing",
+		"occupation": "nothing",
+		"monthlyIncome": "0",
+		"nameOfEmployer": "lspu",
+		"employerAddress": "malinta",
+		"contactNumber": "091234567123"
+	},
+	"familyComposition": [{
+		"name": "fran",
+		"age": "18",
+		"sex": "f",
+		"relationShip": "sis",
+		"educationalattainment": "bs",
+		"occupation": "nothing",
+		"monthlyIncome": "0"
+},{
+		"name": "hans",
+		"age": "18",
+		"sex": "f",
+		"relationShip": "sis",
+		"educationalattainment": "bs",
+		"occupation": "nothing",
+		"monthlyIncome": "0"
+}]
+}
